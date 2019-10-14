@@ -6,14 +6,21 @@
 
 
  INPUT
+ 
    Fluo -  Raw Fluorescence trace (matrix: cells x time)
+   
    fpsec - frame per second (aquisition rate in Hz)
+   
    rise - rise time of the Calcium indicator (seconds)
+   
    decay - decay time of the Calcium indicator (seconds)
+   
    typ - hypothesized activity model: 'block' or 'spike'
 
  OUTPUT
+ 
    Denoised: filtered signal
+   
    Deconvolved: filtered signal + undone from calcium dynamics
  
 
