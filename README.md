@@ -17,7 +17,8 @@
    Deconvolved: filtered signal + undone from calcium dynamics
  
 
- parameters for the algorithm (can be changed by user)
+ Parameters for the algorithm (can be changed by user)
 
-This is a Matlab implementation
+This is a Matlab implementation.
+
 If any problem, please contact Younes Farouj via younes.farouj@epfl.ch.
